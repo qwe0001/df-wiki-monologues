@@ -96,28 +96,39 @@ but the land beneath their feet has been bled dry under their endless salvation.
 
 *** 防御側（パターンA） [#lore_defA]
 
-アサラの老人男性の独白（ハサンへ）：
-ハサン。我々が戦っているのは、G.T.I.でも、かつて共に立ったアサランの兄弟たちでもない。
+アサラの老人男性の独白：
+ハサン。我々が戦っているのは、G.T.I.でも、
+かつて共に立ったアサラの兄弟たちでもない。&br;
 我々を縛り続けてきた、貧困と絶望の連鎖と戦っているのだ。
 ハヴォックは、その鎖を断ち切る鉄槌を差し出した。
-代償は、我々の魂だ。
+代償は、我々の魂だ。&br;
 私は、子供たちが同じ運命を繰り返さなくて済むように、その選択をした。
-谷ひとつが、我々を隔てている——ハサン。
-お前は崩れゆく馴染みの過去にしがみつき、私は未知の未来へと踏み出す。
+谷ひとつが、我々を隔てている。&br;
+ーーーハサン。
+お前は崩れゆく馴染みの過去にしがみつき、
+私は未知の未来へと踏み出す。&br;
 どちらも相手を説得などできはしない。
 最後の裁きを下すのは、我々の足元で震える大地だけだ。
 
 #region(文字起こし原文はこちら)
 #pre{{
 Ahsahren elder (male) monologue:
-Hassan. We're not fighting G.T.I. nor our Asaran brothers who once stood with us.
+Hassan. We're not fighting G.T.I.
+nor our Ahsahren brothers who once stood with us.
+
 We're fighting the cycle of poverty and despair that has entrapped us.
-Haavk offered a hammer to break it, in exchange for our souls.
+Haavk offered a hammer to break it,
+in exchange for our souls.
+
 I made my choice so my children don't relive our fate.
 A valley separates us, Hassan.
-You cling to the familiar past that's crumbling away while I journey towards an unknown future.
+
+You cling to the familiar past that's crumbling away
+while I journey towards an unknown future.
+
 Neither of us can convince the other.
-Only the trembling earth beneath our feet will give the final verdict.
+Only the trembling earth beneath
+our feet will give the final verdict.
 }}
 #endregion
 
