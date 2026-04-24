@@ -96,7 +96,7 @@ but the land beneath their feet has been bled dry under their endless salvation.
 
 *** 防御側（パターンA） [#lore_defA]
 
-アサラの老人男性の独白：
+アサラの老人男性の独白（ハサンへ）：
 ハサン。我々が戦っているのは、G.T.I.でも、
 かつて共に立ったアサラの兄弟たちでもない。&br;
 我々を縛り続けてきた、貧困と絶望の連鎖と戦っているのだ。
