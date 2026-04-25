@@ -17,6 +17,7 @@
 | Jacob Haavk | Jason Haavk（Geminiハルシネーション） |
 | Kalila Reis | Haril Reis（韓国wiki誤記） |
 | Zoya Pomchenkova | ゲームUI英語版正式表記。日本語UIは「ゾーヤ・ポンチェンコワ」 |
+| Dark Star Fuel Unit | Dark Matter Fuel Unit（コミュニティ誤訳。中国語「暗星燃料」＝Dark Star。PV音声でも「Dark Star」と発音） |
 | ERAIS | 中国語原文・英語公式サイト一部・日本語公式で確定。公式内で「ERIAS」表記も混在するが誤記と判断 |
 | Sofia（女性記者） | Sophia ではない。ogg音声で確認済み |
 | Windy Ridge Power Station | Wind Ridge（誤記） |
@@ -55,6 +56,34 @@ ERASと並ぶ同社の核心技術。
 ゲーム内ではオペレーションズモードのドロップアイテムとして登場するほか、
 量子鍵でスキャンして武器スキンを解読・入手できるルートボックス要素である。
 マーケットでの売買や合成も可能。
+
+---
+
+### 暗き星燃料ユニット（Dark Star Fuel Unit） [#darkmatter_fuel]
+
+ハヴォック社がハドソン（Alonso Hudson）主導で開発した高エネルギー燃料ユニット。
+シーズン8「Morphosis」にてスペースシティのストーリーで初登場。
+ハドソンは「Tomorrow's Resources, Today's Reality（明日の資源を、今日の現実に）」を
+スローガンに掲げ、スペースシティでのダークスター計画を強行推進した人物。&br;
+シーズン9「Echo」では、ウムス運河（Akh Canal）からスペースシティへ輸送中の
+ハヴォック貨物船がアサラ警備隊・ウス反抗軍の奇襲を受け、
+運河に座礁するという形でゲームの世界観に登場。
+G.T.I.司令官はこの貨物を「radioactive cargo（放射性物質）」と表現している。&br;
+ゲーム内キャニスターには原子核モデルのアイコン（CAUTIONラベル付き）が描かれており、
+ゲーム世界観においてはエネルギー放射を伴う危険物として描写されている。
+
+**名称について**
+中国語原文：暗星燃料（「暗星」= Dark Star、「暗物質 = Dark Matter」とは別語）
+英語公式名：Dark Star Fuel Unit（ゲームPV音声でも「Dark Star」と発音）
+コミュニティでは誤って「Dark Matter Fuel Unit」と呼ばれることが多いが、
+中国語原文・PV音声ともに「Dark Star」であり、「Dark Matter Fuel」は誤訳が拡散したもの。
+
+**ゲーム内での入手方法**
+オペレーションズモードのスペースシティ（Space City）に存在する
+隠しミッション「Spaceport Secret Quest」のクリア報酬として入手可能。
+クリア時に「Astro-Courier Badge（宇宙配達員バッジ）」も同時に獲得できる。
+シーズン8で実装。シーズン9でも引き続き入手可能とされている。&br;
+ミッションの詳細手順については調査中。
 
 ---
 
