@@ -4,7 +4,29 @@
 
 *** 攻撃側（パターンA） [#lore_atkA]
 
-聞けたら追記予定。。
+G.T.I. 司令官（男性）：
+ハヴォックは、世界経済の頸動脈とも言えるアッハ運河を、
+あまりにも長い間、その手で締め上げてきた。
+ーーーだが、それも今日で終わりだ。&br;
+放射性物質を積んだハヴォックの貨物船が、
+海賊に襲撃され、港に座礁した。&br;
+我々の即応部隊は、今この瞬間も展開中だ。
+港は、最大限の速さで制圧する。&br;
+ハヴォックは、一度たりともその戦略的野心を隠そうとしなかった。
+今日こそ、その傲慢さの代償を払わせてやる。
+
+#region(文字起こし原文はこちら)
+#pre{{
+G.T.I. Commander (Male):
+Haavk has held the Akh Canal, the jugular of the global economy, in a chokehold for too long.
+That ends today.
+A Haavk freighter carrying radioactive cargo was hit by pirates and grounded at port.
+Our rapid response units are mobilizing as I speak.
+We will secure the port with maximum speed.
+Haavk has never hidden their strategic ambitions.
+Today, they will pay the price for their arrogance.
+}}
+#endregion
 
 *** 防御側（パターンA） [#lore_defA]
 
