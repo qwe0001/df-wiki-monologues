@@ -17,7 +17,7 @@
 | Jacob Haavk | Jason Haavk（Geminiハルシネーション） |
 | Kalila Reis | Haril Reis（韓国wiki誤記） |
 | Zoya Pomchenkova | ゲームUI英語版正式表記。日本語UIは「ゾーヤ・ポンチェンコワ」 |
-| Dark Star Fuel Unit | Dark Matter Fuel Unit（コミュニティ誤訳。中国語「暗星燃料」＝Dark Star。PV音声でも「Dark Star」と発音） |
+| Dark Matter Fuel（英語UI正式名） | 中国語「暗星燃料」＝Dark Star Fuel（直訳）。PV音声も「Dark Star」と発音しており表記ゆれ。英語UIゲーム内では Dark Matter Fuel が正式 |
 | ERAIS | 中国語原文・英語公式サイト一部・日本語公式で確定。公式内で「ERIAS」表記も混在するが誤記と判断 |
 | Sofia（女性記者） | Sophia ではない。ogg音声で確認済み |
 | Windy Ridge Power Station | Wind Ridge（誤記） |
@@ -72,15 +72,29 @@ G.T.I.司令官はこの貨物を「radioactive cargo（放射性物質）」と
 ゲーム内キャニスターには原子核モデルのアイコン（CAUTIONラベル付き）が描かれており、
 ゲーム世界観においてはエネルギー放射を伴う危険物として描写されている。
 
-**名称について**
-中国語原文：暗星燃料（「暗星」= Dark Star、「暗物質 = Dark Matter」とは別語）
-英語公式名：Dark Star Fuel Unit（ゲームPV音声でも「Dark Star」と発音）
-コミュニティでは誤って「Dark Matter Fuel Unit」と呼ばれることが多いが、
-中国語原文・PV音声ともに「Dark Star」であり、「Dark Matter Fuel」は誤訳が拡散したもの。
+**名称について（表記ゆれ）**
+- 英語UI正式名：Dark Matter Fuel（ゲーム内ミッションUIで確認）
+- 中国語原文：暗星燃料（「暗星」= Dark Star が直訳）
+- PV音声：「Dark Star」と発音
+- 英語UIと中国語・PV音声で呼称が異なるが、これは公式内の表記ゆれと判断する
+
+**放射線について**
+ゲーム内の謎の人物（Mysterious Figure）が燃料入手時に次のように発言している。
+「人類自身の人工太陽を手にしたぞ。放射線は今のところ無害だ…今はな。」
+（原文："Behold, you hold humanity's very own artificial sun! Fear not, its radiation is harmless... for now."）&br;
+放射線を放つことがゲーム内で明言されており、G.T.I.司令官がAkh Canalモノローグで
+「radioactive cargo（放射性積み荷）」と表現しているのはこの性質を指すものと確認された。
+ミッションのサブ目標に「Hazard Level（危険度）」が存在することも放射性の傍証となっている。&br;
+「人工太陽」という表現は核融合エネルギー源を示唆しており、
+「Dark Star（暗き星）」という名称とも整合する。
+
+**謎の人物（Mysterious Figure）**
+隠しミッション「COLLECT FUEL」中に通信越しに登場するNPC。
+コンテナの次の場所を追跡してくれるが、正体・所属は不明。調査中。
 
 **ゲーム内での入手方法**
 オペレーションズモードのスペースシティ（Space City）に存在する
-隠しミッション「Spaceport Secret Quest」のクリア報酬として入手可能。
+隠しミッション「COLLECT FUEL」（Spaceport Secret Quest）のクリア報酬として入手可能。
 クリア時に「Astro-Courier Badge（宇宙配達員バッジ）」も同時に獲得できる。
 シーズン8で実装。シーズン9でも引き続き入手可能とされている。&br;
 ミッションの詳細手順については調査中。
