@@ -61,3 +61,58 @@ Do not let them sever this lifeline.
 NOTE: これまで企業としての体を保ってきたハヴォックだが、
 ついにEmpire（帝国）って言葉を出してきたな。正体現したね。
 NOTE2: そういえば、暗き星燃料については言及しないんだな。もしかしてハヴォックの末端兵士には隠してる？
+
+*** 防御側（パターンB） [#lore_defB]
+
+ハヴォック貨物船 船長らしき男性：
+マダム、工学班から掘削機の追加要請が来ています。
+もう限界だと言っています。&br;
+ハヴォック通信士らしき女性：
+こっちも皆そうよ。カーゴAの確保状況は？&br;
+ハヴォック貨物船 船長らしき男性：
+回収チームは放射線防護装備待ちで止まっています。
+とりあえず遺物のサルベージに当たらせています。&br;
+ハヴォック通信士らしき女性：
+了解。プリズムE3、逃走した海賊どもの位置を報告せよ。&br;
+ハヴォック貨物船 船長らしき男性：
+接敵！止めろ！！！&br;
+ハヴォック通信士らしき女性：
+プリズムE3！もう一度送れ！！&br;
+ハヴォック貨物船 船長らしき男性：
+G.T.I.の大隊が港へ向けて進撃してくる！
+方位118！ーーー奴ら、正体を現した！&br;
+ハヴォック通信士らしき女性：
+全局、船が攻撃を受けている！
+海賊追跡を中止！
+全戦闘部隊——ただちに外周へ集結せよ！
+
+#region(文字起こし原文はこちら)
+#pre{{
+Haavk Ship Captain (Male):
+Ma'am, engineering is requesting more excavators.
+They're at their breaking point.
+Haavk Communications Operator (Female):
+We're all at our breaking points. Has Cargo A been secured?
+Haavk Ship Captain (Male):
+Recovery team still waiting on rad protection.
+I diverted them to assist with the artifact salvage for now.
+Haavk Communications Operator (Female):
+Copy. Prism E3, what's the location of those fleeing pirates?
+Haavk Ship Captain (Male):
+Contact! Stop it!!!
+Haavk Communications Operator (Female):
+Prism E3, say again!!
+Haavk Ship Captain (Male):
+The G.T.I. battalion is moving on their port!
+Bearing 118! They dropped the act!
+Haavk Communications Operator (Female):
+All stations, the boat is under attack!
+Abort pursuit of the pirates!
+All combat units, rally at the outer perimeter immediately!
+}}
+#endregion
+
+NOTE: 「カーゴA」＋「放射線防護装備待ち」→ カーゴA ＝ [[暗き星燃料>用語集#darkmatter_fuel]] と確定
+NOTE2: 「プリズムE3（Prism E3）」は貨物船のコールサインと推定
+NOTE3: 「They dropped the act（正体を現した）」→ G.T.I.は当初、海賊追跡に便乗する中立勢力を装っていたことが示唆される
+NOTE4: 遺物のサルベージが並行して行われており、伝承の「文化遺産を積んだ貨物船」と一致する
