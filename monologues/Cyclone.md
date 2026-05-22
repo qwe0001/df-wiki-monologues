@@ -144,6 +144,60 @@ Ha ha ha ha.
 [Inaudible — battle commenced]
 }}
 #endregion
+*** 攻撃側（パターンE） [#lore_atkE]
+
+[[レイヴン>用語集#raven_fahim]]とソフィアの会話。&br;
+ソフィア：
+ハヴォックの計画を嘲笑っているようですね。&br;
+[[レイヴン>用語集#raven_fahim]]：
+かつては騙されていたが、すぐにそれが''茶番''に過ぎないと気づいた。&br;
+ソフィア：
+あなた自身の計画については、どのようにお考えですか？&br;
+[[レイヴン>用語集#raven_fahim]]：
+アサラは、無数にある実験場のひとつに過ぎない。
+ハヴォックは''憎しみ''の種を蒔き、G.T.I.は''偽善''の種を蒔く。
+そして「''私''」が！！蒔くのは、''混沌''だ。
+私が作り上げようとする王国は、アサラを''遥かに超えた''ものになる。
+ハヴォックの「新世界」よりも、真に、より苛烈に、より自由に、より公正に。&br;
+ソフィア：
+なぜそこまで自信がお持ちなのですか？&br;
+[[レイヴン>用語集#raven_fahim]]：
+数え切れないほどの血まみれの事実が、
+混沌こそがこの世界の本質であることを証明してきたからだ。
+狂気は我々の本性に刻まれている。
+たった一日の最悪な体験があれば（※）、
+どれほど理性的な人間であっても、正気の縁から突き落とすには十分なのだ。
+
+#region(文字起こし原文はこちら)
+#pre{{
+Sofia:
+You seem to scoff at Haavk's plans.
+Raven:
+I was once fooled by it,
+but quickly realized it was nothing more than a charade.
+Sofia:
+How do you view your own plan?
+Raven:
+Ahsarah is just one of Countless experimental fields.
+Havvk sows hatred, G.T.I. sows hypocrisy,
+and "I"!! sow CHAOS.
+The kingdom I hope to create goes BEYOND Ahsarah.
+It will be real, fiercer, freer, and fairer than Haavk's new world.
+Sofia:
+Why are you so confident?
+Raven:
+Because countless bloody facts have proven that chaos is the essence of this world.
+Insanity is in our nature.
+All it takes is one bad day to push the most rational person over the edge.
+}}
+#endregion
+
+※「たった一日の最悪な体験があれば、どれほど理性的な人間でも正気の縁から突き落とせる」
+DCコミックス「[[バットマン：キリング・ジョーク>https://en.wikipedia.org/wiki/Batman:_The_Killing_Joke]]（Batman: The Killing Joke、1988年、Alan Moore著）」で
+ジョーカーがバットマンに語る台詞のほぼそのままの引用。
+原文：「All it takes is one bad day to reduce the sanest man alive to lunacy.」
+レイヴンのキャラクター像がジョーカーの哲学と意図的に重ねられていることを強く示唆する。
+
 *** 防御側（パターンA） [#lore_defA]
 
 ハヴォック幹部（男性）：
